@@ -28,8 +28,8 @@ sudo apt-get install -y libpangocairo-1.0-0
 
 
 ### =cabang=
- - pat (Plaza Asia Tasikmalaya)
- - pas (Plaza Asia Sumedang)
- - crb (Asia Toserba Cirebon)
- - chd (Asia Toserba Cihideung)
- - grt (Asia Toserba Garut)
+ - pat (untuk Plaza Asia Tasikmalaya)
+ - pas (untuk Plaza Asia Sumedang)
+ - crb (untuk Asia Toserba Cirebon)
+ - chd (untuk Asia Toserba Cihideung)
+ - grt (untuk Asia Toserba Garut)
